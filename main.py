@@ -3,7 +3,7 @@ from PIL import Image
 import pickle as pkl
 import numpy as np
 
-IMG_SIZE = 227
+IMG_SIZE = 2277
 
 class_list = {'0': 'NORMAL', '1': 'PNEUMONIA'}
 
